@@ -1,0 +1,4 @@
+/etc/passwd ⇒ /etc/passwd
+a/b/././c/d ⇒ a/b/c/d
+/a/b/../c ⇒ /a/c
+/usr/../etc/ ⇒ /etc/

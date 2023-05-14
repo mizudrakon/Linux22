@@ -1,0 +1,1 @@
+kotasekj:*:14198:14198:Kotasek Jan:/home/kotasekj:/bin/bash

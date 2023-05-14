@@ -1,0 +1,4 @@
+cut -d ' ' -f 1 /proc/uptime
+reads the /proc/uptime file, uses the ' ' delimiter to split it into distinct
+fields (here there's the first number and the second one), -f 1 specifies that
+we want it to return the first field as the output. 

@@ -1,0 +1,6 @@
+Text with _emphasis of several words_. 
+Text with *strong emphasis*.
+Any >, < or & must be converted to HTML entities.
+Links in the form of [http://...|link text] will be converted to<a href="http://...">link text</a>.
+URL will always start with http:// or https://
+Characters <, >, & and " must be escaped inside the URL, i.e. they must be converted to their respective HTML entities.
